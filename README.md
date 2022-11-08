@@ -15,7 +15,7 @@ So even a bit overqualified to replace you
 [![Bash](https://img.shields.io/badge/-Bash-DC322F?style=for-the-badge&logo=gnu-bash&logoColor=FFFFFF)](https://example.com)
 [![C](https://img.shields.io/badge/-C-DC322F?style=for-the-badge&logo=C&logoColor=FFFFFF)](https://example.com)
 
-## Links 
+## Contact Now
 [![Telegram](https://img.shields.io/badge/-Telegram-DC322F?style=for-the-badge&logo=Telegram)](https://t.me/nomardt)
 
 
