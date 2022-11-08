@@ -2,7 +2,7 @@
 
 I'm a professional noone.
 
-## OS
+## OSs
 ![Windows](https://img.shields.io/badge/-Windows-DC322F?style=for-the-badge&logo=windows)
 ![Linux_Kali](https://img.shields.io/badge/-Linux_Kali-DC322F?style=for-the-badge&logo=linux&logoColor=FFFFFF)
 ![Linux_Ubuntu](https://img.shields.io/badge/-Linux_Ubuntu-DC322F?style=for-the-badge&logo=Ubuntu&logoColor=FFFFFF)
