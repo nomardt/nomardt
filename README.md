@@ -9,10 +9,10 @@ I'm a professional noone.
 ![Linux_Debian](https://img.shields.io/badge/-Linux_Debian-DC322F?style=for-the-badge&logo=Debian&logoColor=FFFFFF)
 ![Linux Mint](https://img.shields.io/badge/Linux_Mint-DC322F?style=for-the-badge&logo=linux-mint&logoColor=white)
 
-## Programming Languages
+## Scripting & Programming Languages
 ![Python](https://img.shields.io/badge/Python-DC322F?style=for-the-badge&logo=python&logoColor=white)
 ![Powershell](https://img.shields.io/badge/-Powershell-DC322F?style=for-the-badge&logo=Powershell&logoColor=FFFFFF)
-![Bash](https://img.shields.io/badge/-Bash-DC322F?style=for-the-badge&logo=Bash&logoColor=FFFFFF)
+![Bash](https://img.shields.io/badge/-Bash-DC322F?style=for-the-badge&logo=https://bashlogo.com/img/symbol/svg/full_colored_dark.svg)
 ![C](https://img.shields.io/badge/-C-DC322F?style=for-the-badge&logo=C&logoColor=FFFFFF)
 
 ## Links 
