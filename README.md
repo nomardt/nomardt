@@ -12,7 +12,7 @@ I'm a professional noone.
 ## Scripting & Programming Languages
 ![Python](https://img.shields.io/badge/Python-DC322F?style=for-the-badge&logo=python&logoColor=white)
 ![Powershell](https://img.shields.io/badge/-Powershell-DC322F?style=for-the-badge&logo=Powershell&logoColor=FFFFFF)
-![Bash](https://img.shields.io/badge/-Bash-DC322F?style=for-the-badge&logo=https://bashlogo.com/img/symbol/svg/full_colored_dark.svg)
+![Bash](https://img.shields.io/badge/-Bash-DC322F?style=for-the-badge&logo=gnu-bash&logoColor=FFFFFF)
 ![C](https://img.shields.io/badge/-C-DC322F?style=for-the-badge&logo=C&logoColor=FFFFFF)
 
 ## Links 
