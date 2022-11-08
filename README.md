@@ -1,8 +1,6 @@
-Hi there 👋
+### Hi, I'm a professional no one.
 
-### I'm a professional no one.
-
-Sooo even a bit overqualified to replace you
+So even a bit overqualified to replace you
 
 ## OSs
 [![Windows](https://img.shields.io/badge/-Windows-DC322F?style=for-the-badge&logo=windows)](https://example.com)
