@@ -1,4 +1,4 @@
-### Hi, I'm a professional no one.
+### 👋, I'm a professional no one.
 
 So even a bit overqualified to replace you
 
