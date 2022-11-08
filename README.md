@@ -14,6 +14,7 @@ I'm a professional noone.
 ![Python](https://img.shields.io/badge/Python-DC322F?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-Windows-DC322F?style=for-the-badge&logo=windows)
 ![Powershell](https://img.shields.io/badge/-Powershell-DC322F?style=for-the-badge&logo=Powershell&logoColor=FFFFFF)
+![Bash](https://img.shields.io/badge/-Bash-DC322F?style=for-the-badge&logo=Bash&logoColor=FFFFFF)
 
 ## Links 
 [![Telegram](https://img.shields.io/badge/-Telegram-DC322F?style=for-the-badge&logo=Telegram)](https://t.me/nomardt)
