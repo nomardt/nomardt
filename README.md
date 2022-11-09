@@ -17,6 +17,7 @@ So even a bit overqualified to replace you
 
 ## Contact Now
 [![Telegram](https://img.shields.io/badge/-Telegram-DC322F?style=for-the-badge&logo=Telegram)](https://t.me/nomardt)
+[![Email](https://img.shields.io/badge/-Gmail-DC322F?style=for-the-badge&logo=gmail)](mailto:nomardt@aol.com)
 
 
 <!--
