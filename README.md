@@ -8,6 +8,7 @@ So even a bit overqualified to replace you
 [![Linux_Ubuntu](https://img.shields.io/badge/-Linux_Ubuntu-DC322F?style=for-the-badge&logo=Ubuntu&logoColor=FFFFFF)](https://example.com)
 [![Linux_Debian](https://img.shields.io/badge/-Linux_Debian-DC322F?style=for-the-badge&logo=Debian&logoColor=FFFFFF)](https://example.com)
 [![Linux Mint](https://img.shields.io/badge/Linux_Mint-DC322F?style=for-the-badge&logo=linux-mint&logoColor=white)](https://example.com)
+[![Cisco IOS](https://img.shields.io/badge/Cisco%20IOS-DC322F?style=for-the-badge&logo=Cisco&logoColor=white)](https://example.com)
 
 ## Scripting & Programming Languages
 [![Python](https://img.shields.io/badge/Python-DC322F?style=for-the-badge&logo=python&logoColor=white)](https://example.com)
