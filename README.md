@@ -1,6 +1,6 @@
 ### 👋, I'm a professional no one.
 
-So even a bit overqualified to replace you
+So even a bit overqualified to replace you!
 
 Current BinaryBears.Junior member (junior CTF academic team at MTUCI)
 
