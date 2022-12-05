@@ -2,6 +2,8 @@
 
 So even a bit overqualified to replace you
 
+BinaryBears.Junior member (junior CTF academic team at MTUCI)
+
 ## OSs
 [![Windows](https://img.shields.io/badge/-Windows-DC322F?style=for-the-badge&logo=windows)](https://example.com)
 [![Linux_Kali](https://img.shields.io/badge/-Linux_Kali-DC322F?style=for-the-badge&logo=linux&logoColor=FFFFFF)](https://example.com)
