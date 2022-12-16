@@ -1,6 +1,6 @@
-### 👋, I'm a professional noone.
+### ʕノ•ᴥ•ʔノ ︵ ┻━┻
 
-So even a bit overqualified to replace you!
+I love cybersecurity and CTFs! Also can code a little.
 
 CTFtime profile: https://ctftime.org/user/149327
 
