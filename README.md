@@ -3,6 +3,7 @@
 I love cybersecurity and CTFs! Also can code a little.
 
 CTFtime profile: https://ctftime.org/user/149327
+MTUCI Infosec student
 
 ## OSs
 [![Windows](https://img.shields.io/badge/-Windows-DC322F?style=for-the-badge&logo=windows)](https://example.com)
