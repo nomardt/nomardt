@@ -1,7 +1,7 @@
 ![Header](https://github.com/nomardt/Work/blob/main/profileimage1.jpg)
 
 
-### (╯°□°)╯︵ ʞooqǝɔɐɟ
+### ( ͡° ᴥ ͡°)
 
 I love cybersecurity and CTFs! Also can code a little.
 
