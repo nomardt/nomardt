@@ -2,7 +2,7 @@
 
 So even a bit overqualified to replace you!
 
-Current BinaryBears.Junior member (junior CTF academic team at MTUCI)
+CTFtime profile: https://ctftime.org/user/149327
 
 ## OSs
 [![Windows](https://img.shields.io/badge/-Windows-DC322F?style=for-the-badge&logo=windows)](https://example.com)
