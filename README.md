@@ -1,8 +1,9 @@
-### ʕノ•ᴥ•ʔノ ︵ ┻━┻
+### (ノ ゜Д゜)ノ ︵ ǝןqɐʇ ɐ ǝʞıן ʇxǝʇ dıןɟ
 
 I love cybersecurity and CTFs! Also can code a little.
 
 CTFtime profile: https://ctftime.org/user/149327
+
 MTUCI Infosec student
 
 ## OSs
