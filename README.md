@@ -18,7 +18,6 @@ MTUCI Infosec student
 
 ## Scripting & Programming Languages
 [![Python](https://img.shields.io/badge/Python-DC322F?style=for-the-badge&logo=python&logoColor=white)](https://example.com)
-[![Powershell](https://img.shields.io/badge/-Powershell-DC322F?style=for-the-badge&logo=Powershell&logoColor=FFFFFF)](https://example.com)
 [![Bash](https://img.shields.io/badge/-Bash-DC322F?style=for-the-badge&logo=gnu-bash&logoColor=FFFFFF)](https://example.com)
 [![C](https://img.shields.io/badge/-C-DC322F?style=for-the-badge&logo=C&logoColor=FFFFFF)](https://example.com)
 
