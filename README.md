@@ -5,9 +5,7 @@
 
 I love cybersecurity and CTFs! Also can code a little.
 
-CTFtime profile: https://ctftime.org/user/149327
-
-MTUCI Infosec student
+Moscow Technical University of Communications and Informatics (MTUCI) Infosec student
 
 ## OSs
 [![Windows](https://img.shields.io/badge/-Windows-DC322F?style=for-the-badge&logo=windows)](https://example.com)
@@ -24,6 +22,11 @@ MTUCI Infosec student
 ## Contact Now
 [![Telegram](https://img.shields.io/badge/-Telegram-DC322F?style=for-the-badge&logo=Telegram)](https://t.me/nomardt)
 [![Email](https://img.shields.io/badge/-Email-DC322F?style=for-the-badge&logo=Thunderbird)](mailto:nomardt@aol.com)
+
+## Other Links
+[![Medium.com](https://img.shields.io/badge/-Medium-DC322F?style=for-the-badge&logo=Medium)](https://medium.com/@nomardt)
+[![CTFtime.org](https://img.shields.io/badge/-CTFtime.org-DC322F?style=for-the-badge)](https://ctftime.org/user/149327)
+
 
 
 <!--
