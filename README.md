@@ -20,7 +20,7 @@ Moscow Technical University of Communications and Informatics (MTUCI) Infosec st
 [![Bash](https://img.shields.io/badge/-Bash-DC322F?style=for-the-badge&logo=gnu-bash&logoColor=FFFFFF)](https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html)
 [![C](https://img.shields.io/badge/-C-DC322F?style=for-the-badge&logo=C&logoColor=FFFFFF)](https://devdocs.io/c/)
 
-## Feel Free to Drop By
+## Feel Free to Check Out
 [![Medium.com](https://img.shields.io/badge/-Medium-DC322F?style=for-the-badge&logo=Medium)](https://medium.com/@nomardt)
 [![CTFtime.org](https://img.shields.io/badge/-CTFtime.org-DC322F?style=for-the-badge)](https://ctftime.org/user/149327)
 
