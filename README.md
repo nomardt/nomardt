@@ -20,15 +20,13 @@ Moscow Technical University of Communications and Informatics (MTUCI) Infosec st
 [![Bash](https://img.shields.io/badge/-Bash-DC322F?style=for-the-badge&logo=gnu-bash&logoColor=FFFFFF)](https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html)
 [![C](https://img.shields.io/badge/-C-DC322F?style=for-the-badge&logo=C&logoColor=FFFFFF)](https://devdocs.io/c/)
 
-## Contact Now
-[![Telegram](https://img.shields.io/badge/-Telegram-DC322F?style=for-the-badge&logo=Telegram)](https://t.me/nomardt)
-[![Email](https://img.shields.io/badge/-Email-DC322F?style=for-the-badge&logo=Thunderbird)](mailto:nomardt@aol.com)
-
 ## Feel Free to Drop By
 [![Medium.com](https://img.shields.io/badge/-Medium-DC322F?style=for-the-badge&logo=Medium)](https://medium.com/@nomardt)
 [![CTFtime.org](https://img.shields.io/badge/-CTFtime.org-DC322F?style=for-the-badge)](https://ctftime.org/user/149327)
 
-
+## Contact Now
+[![Telegram](https://img.shields.io/badge/-Telegram-DC322F?style=for-the-badge&logo=Telegram)](https://t.me/nomardt)
+[![Email](https://img.shields.io/badge/-Email-DC322F?style=for-the-badge&logo=Thunderbird)](mailto:nomardt@aol.com)
 
 <!--
 **nomardt/nomardt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
