@@ -21,6 +21,7 @@ Moscow Technical University of Communications and Informatics (MTUCI) Infosec st
 [![C](https://img.shields.io/badge/-C-DC322F?style=for-the-badge&logo=C&logoColor=FFFFFF)](https://devdocs.io/c/)
 
 ## Feel Free to Check Out
+[![Medium.com](https://img.shields.io/badge/-Medium-DC322F?style=for-the-badge&logo=Medium)](https://medium.com/@nomardt)
 [![CTFtime.org](https://img.shields.io/badge/-CTFtime.org-DC322F?style=for-the-badge)](https://ctftime.org/user/149327)
 
 ## Contact Now
