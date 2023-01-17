@@ -22,7 +22,7 @@ Moscow Technical University of Communications and Informatics (MTUCI) Infosec st
 
 ## Feel Free to Check Out
 [![Medium.com](https://img.shields.io/badge/-Medium-DC322F?style=for-the-badge&logo=Medium)](https://medium.com/@nomardt)
-[![HackTheBox.com](https://img.shields.io/badge/-HackTheBox-DC322F?style=for-the-badge&logo=HackTheBox)](https://app.hackthebox.com/users/1363617)
+[![HackTheBox.com](https://img.shields.io/badge/-HTB-DC322F?style=for-the-badge&logo=HackTheBox)](https://app.hackthebox.com/users/1363617)
 [![CTFtime.org](https://img.shields.io/badge/-CTFtime.org-DC322F?style=for-the-badge)](https://ctftime.org/user/149327)
 
 ## Contact Now
