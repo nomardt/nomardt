@@ -3,7 +3,7 @@
 
 <h2 align="center"> ( ͡° ᴥ ͡°) </h2>
 
-I love cybersecurity and CTFs! Also can code a little.
+<h3>I love cybersecurity and CTFs! Also can code a little. </h3>
 
 Moscow Technical University of Communications and Informatics (MTUCI) Infosec student
 
