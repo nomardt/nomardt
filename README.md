@@ -8,6 +8,25 @@ I love cybersecurity and CTFs! Also can code a little.
 Moscow Technical University of Communications and Informatics (MTUCI) Infosec student
 
 
+<h2 align="center">Operating Systems</h1>
+<p align="center">
+    <a href="https://www.microsoft.com/en-us/windows">
+        <img src="https://img.shields.io/badge/-Windows-DC322F?style=for-the-badge&logo=windows"/>
+    </a>
+    <a href="">
+        <img src="https://img.shields.io/badge/-ParrotSec_OS-DC322F?style=for-the-badge&logo=linux&logoColor=FFFFFF"/>
+    </a>
+    <a href="">
+        <img src="https://img.shields.io/badge/-Linux_Ubuntu-DC322F?style=for-the-badge&logo=Ubuntu&logoColor=FFFFFF"/>
+    </a>
+    <a href="">
+        <img src="https://img.shields.io/badge/Linux_Mint-DC322F?style=for-the-badge&logo=linux-mint&logoColor=white"/>
+    </a>
+    <a href="">
+        <img src="https://img.shields.io/badge/Cisco%20IOS-DC322F?style=for-the-badge&logo=Cisco&logoColor=white"/>
+    </a>
+</p>
+
 ## Operating Systems
 [![Windows](https://img.shields.io/badge/-Windows-DC322F?style=for-the-badge&logo=windows)](https://www.microsoft.com/en-us/windows)
 [![Linux_Parrot](https://img.shields.io/badge/-ParrotSec_OS-DC322F?style=for-the-badge&logo=linux&logoColor=FFFFFF)](https://www.parrotsec.org/)
