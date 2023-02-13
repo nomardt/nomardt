@@ -30,8 +30,8 @@ Moscow Technical University of Communications and Informatics (MTUCI) Infosec st
 [![Email](https://img.shields.io/badge/-Email-DC322F?style=for-the-badge&logo=Thunderbird)](mailto:nomardt@aol.com)
 
 ## GitHub Statistics
-![Streak](https://streak-stats.demolab.com?user=nomardt&theme=monokai&hide_border=true&border_radius=20&mode=weekly)
 ![Stats](https://github-readme-stats.vercel.app/api?username=nomardt&theme=monokai&border_radius=20&hide_border=true)
+![Streak](https://streak-stats.demolab.com?user=nomardt&theme=monokai&hide_border=true&border_radius=20&mode=weekly)
 
 <!--
 **nomardt/nomardt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
