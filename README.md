@@ -7,12 +7,15 @@ I love cybersecurity and CTFs! Also can code a little.
 
 Moscow Technical University of Communications and Informatics (MTUCI) Infosec student
 
+<p align="center">
 ## Operating Systems
 [![Windows](https://img.shields.io/badge/-Windows-DC322F?style=for-the-badge&logo=windows)](https://www.microsoft.com/en-us/windows)
 [![Linux_Parrot](https://img.shields.io/badge/-ParrotSec_OS-DC322F?style=for-the-badge&logo=linux&logoColor=FFFFFF)](https://www.parrotsec.org/)
 [![Linux_Ubuntu](https://img.shields.io/badge/-Linux_Ubuntu-DC322F?style=for-the-badge&logo=Ubuntu&logoColor=FFFFFF)](https://ubuntu.com/)
 [![Linux Mint](https://img.shields.io/badge/Linux_Mint-DC322F?style=for-the-badge&logo=linux-mint&logoColor=white)](https://linuxmint.com/)
 [![Cisco IOS](https://img.shields.io/badge/Cisco%20IOS-DC322F?style=for-the-badge&logo=Cisco&logoColor=white)](https://en.wikipedia.org/wiki/Cisco_IOS)
+
+</p>
 
 ## Scripting & Programming Languages
 [![Python](https://img.shields.io/badge/Python-DC322F?style=for-the-badge&logo=python&logoColor=white)](https://docs.python.org/3/)
