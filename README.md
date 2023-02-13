@@ -3,9 +3,9 @@
 
 ## ( ͡° ᴥ ͡°)
 
-<h4>I love cybersecurity and CTFs! Also can code a little.</h4>
+I love cybersecurity and CTFs! Also can code a little.
 
-<h4>Moscow Technical University of Communications and Informatics (MTUCI) Infosec student</h4>
+Moscow Technical University of Communications and Informatics (MTUCI) Infosec student
 
 
 <h2 align="center">Operating Systems</h1>
