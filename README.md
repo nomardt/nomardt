@@ -7,7 +7,7 @@ I love cybersecurity and CTFs! Also can code a little.
 
 Moscow Technical University of Communications and Informatics (MTUCI) Infosec student
 
-## OSs
+## Operating Systems
 [![Windows](https://img.shields.io/badge/-Windows-DC322F?style=for-the-badge&logo=windows)](https://www.microsoft.com/en-us/windows)
 [![Linux_Parrot](https://img.shields.io/badge/-ParrotSec_OS-DC322F?style=for-the-badge&logo=linux&logoColor=FFFFFF)](https://www.parrotsec.org/)
 [![Linux_Ubuntu](https://img.shields.io/badge/-Linux_Ubuntu-DC322F?style=for-the-badge&logo=Ubuntu&logoColor=FFFFFF)](https://ubuntu.com/)
