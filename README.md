@@ -66,10 +66,10 @@ Moscow Technical University of Communications and Informatics (MTUCI) Infosec st
     </a>
 </p>
 
-<h2 align="center">⭐GitHub stats</h2>
+<h2 align="center">GitHub stats</h2>
 <p align="center">
-    <img src="https://streak-stats.demolab.com?user=LagrangeH&theme=react&hide_border=true&border_radius=20&mode=weekly"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=LagrangeH&theme=react&border_radius=20&hide_border=true"/>
+    <img src="https://streak-stats.demolab.com?user=nomardt&theme=react&hide_border=true&border_radius=20&mode=weekly"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=nomardt&theme=react&border_radius=20&hide_border=true"/>
 </p>
 
 <!--
