@@ -1,76 +1,33 @@
 ![Header](https://github.com/nomardt/Work/blob/main/profileimage1.jpg)
 
 
-## ( ͡° ᴥ ͡°)
+### ( ͡° ᴥ ͡°)
 
 I love cybersecurity and CTFs! Also can code a little.
 
 Moscow Technical University of Communications and Informatics (MTUCI) Infosec student
 
+## Operating Systems
+[![Windows](https://img.shields.io/badge/-Windows-DC322F?style=for-the-badge&logo=windows)](https://www.microsoft.com/en-us/windows)
+[![Linux_Parrot](https://img.shields.io/badge/-ParrotSec_OS-DC322F?style=for-the-badge&logo=linux&logoColor=FFFFFF)](https://www.parrotsec.org/)
+[![Linux_Ubuntu](https://img.shields.io/badge/-Linux_Ubuntu-DC322F?style=for-the-badge&logo=Ubuntu&logoColor=FFFFFF)](https://ubuntu.com/)
+[![Linux Mint](https://img.shields.io/badge/Linux_Mint-DC322F?style=for-the-badge&logo=linux-mint&logoColor=white)](https://linuxmint.com/)
+[![Cisco IOS](https://img.shields.io/badge/Cisco%20IOS-DC322F?style=for-the-badge&logo=Cisco&logoColor=white)](https://en.wikipedia.org/wiki/Cisco_IOS)
 
-<h2 align="center">Operating Systems</h1>
-<p align="center">
-    <a href="https://www.microsoft.com/en-us/windows">
-        <img src="https://img.shields.io/badge/-Windows-DC322F?style=for-the-badge&logo=windows"/>
-    </a>
-    <a href="https://www.parrotsec.org/">
-        <img src="https://img.shields.io/badge/-ParrotSec_OS-DC322F?style=for-the-badge&logo=linux&logoColor=FFFFFF"/>
-    </a>
-    <a href="https://ubuntu.com/">
-        <img src="https://img.shields.io/badge/-Linux_Ubuntu-DC322F?style=for-the-badge&logo=Ubuntu&logoColor=FFFFFF"/>
-    </a>
-    <a href="https://linuxmint.com/">
-        <img src="https://img.shields.io/badge/Linux_Mint-DC322F?style=for-the-badge&logo=linux-mint&logoColor=white"/>
-    </a>
-    <a href="https://en.wikipedia.org/wiki/Cisco_IOS">
-        <img src="https://img.shields.io/badge/Cisco%20IOS-DC322F?style=for-the-badge&logo=Cisco&logoColor=white"/>
-    </a>
-</p>
+## Scripting & Programming Languages
+[![Python](https://img.shields.io/badge/Python-DC322F?style=for-the-badge&logo=python&logoColor=white)](https://docs.python.org/3/)
+[![PHP](https://img.shields.io/badge/PHP-DC322F?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/docs.php)
+[![Bash](https://img.shields.io/badge/-Bash-DC322F?style=for-the-badge&logo=gnu-bash&logoColor=FFFFFF)](https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html)
+[![C](https://img.shields.io/badge/-C-DC322F?style=for-the-badge&logo=C&logoColor=FFFFFF)](https://devdocs.io/c/)
 
-<h2 align="center">Scripting & Programming Languages</h1>
-<p align="center">
-    <a href="https://docs.python.org/3/">
-        <img src="https://img.shields.io/badge/Python-DC322F?style=for-the-badge&logo=python&logoColor=white"/>
-    </a>
-    <a href="https://www.php.net/docs.php">
-        <img src="https://img.shields.io/badge/PHP-DC322F?style=for-the-badge&logo=php&logoColor=white"/>
-    </a>
-    <a href="https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html">
-        <img src="https://img.shields.io/badge/-Bash-DC322F?style=for-the-badge&logo=gnu-bash&logoColor=FFFFFF"/>
-    </a>
-    <a href="https://devdocs.io/c/">
-        <img src="https://img.shields.io/badge/-C-DC322F?style=for-the-badge&logo=C&logoColor=FFFFFF"/>
-    </a>
-</p>
+## Feel Free to Check Out
+[![Medium.com](https://img.shields.io/badge/-Medium-DC322F?style=for-the-badge&logo=Medium)](https://medium.com/@nomardt)
+[![HackTheBox.com](https://img.shields.io/badge/-HTB-DC322F?style=for-the-badge&logo=HackTheBox)](https://app.hackthebox.com/users/1363617)
+[![CTFtime.org](https://img.shields.io/badge/-CTFtime.org-DC322F?style=for-the-badge)](https://ctftime.org/user/149327)
 
-<h2 align="center">Feel Free to Check Out</h1>
-<p align="center">
-    <a href="https://medium.com/@nomardt">
-        <img src="https://img.shields.io/badge/-Medium-DC322F?style=for-the-badge&logo=Medium"/>
-    </a>
-    <a href="https://app.hackthebox.com/users/1363617">
-        <img src="https://img.shields.io/badge/-HTB-DC322F?style=for-the-badge&logo=HackTheBox"/>
-    </a>
-    <a href="https://ctftime.org/user/149327">
-        <img src="https://img.shields.io/badge/-CTFtime.org-DC322F?style=for-the-badge"/>
-    </a>
-</p>
-
-<h2 align="center">Contact Now</h1>
-<p align="center">
-    <a href="https://t.me/nomardt">
-        <img src="https://img.shields.io/badge/-Telegram-DC322F?style=for-the-badge&logo=Telegram"/>
-    </a>
-    <a href="mailto:nomardt@aol.com">
-        <img src="https://img.shields.io/badge/-Email-DC322F?style=for-the-badge&logo=Thunderbird"/>
-    </a>
-</p>
-
-<h2 align="center">GitHub stats</h2>
-<p align="center">
-    <img src="https://streak-stats.demolab.com?user=nomardt&theme=react&hide_border=true&border_radius=20&mode=weekly"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=nomardt&theme=react&border_radius=20&hide_border=true"/>
-</p>
+## Contact Now
+[![Telegram](https://img.shields.io/badge/-Telegram-DC322F?style=for-the-badge&logo=Telegram)](https://t.me/nomardt)
+[![Email](https://img.shields.io/badge/-Email-DC322F?style=for-the-badge&logo=Thunderbird)](mailto:nomardt@aol.com)
 
 <!--
 **nomardt/nomardt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
