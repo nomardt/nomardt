@@ -1,9 +1,9 @@
 ![Header](https://github.com/nomardt/Work/blob/main/profileimage1.jpg)
 
 
-<h2 align="center"> ( ͡° ᴥ ͡°) </h2>
+## ( ͡° ᴥ ͡°)
 
-<h3>I love cybersecurity and CTFs! Also can code a little. </h3>
+<h4>I love cybersecurity and CTFs! Also can code a little. </h4>
 
 Moscow Technical University of Communications and Informatics (MTUCI) Infosec student
 
