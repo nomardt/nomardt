@@ -19,7 +19,6 @@ Moscow Technical University of Communications and Informatics (MTUCI) Infosec st
 [![PHP](https://img.shields.io/badge/PHP-DC322F?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/docs.php)
 [![Bash](https://img.shields.io/badge/-Bash-DC322F?style=for-the-badge&logo=gnu-bash&logoColor=FFFFFF)](https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html)
 [![Java](https://img.shields.io/badge/-Java-DC322F?style=for-the-badge&logo=oracle&logoColor=FFFFFF)](https://docs.oracle.com/en/java/)
-[![C](https://img.shields.io/badge/-C-DC322F?style=for-the-badge&logo=C&logoColor=FFFFFF)](https://devdocs.io/c/)
 
 ## Feel Free to Check Out
 [![Medium.com](https://img.shields.io/badge/-Medium-DC322F?style=for-the-badge&logo=Medium)](https://medium.com/@nomardt)
