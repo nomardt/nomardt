@@ -18,28 +18,9 @@ Moscow Technical University of Communications and Informatics (MTUCI) Infosec st
 [![Python](https://img.shields.io/badge/Python-DC322F?style=for-the-badge&logo=python&logoColor=white)](https://docs.python.org/3/)
 [![PHP](https://img.shields.io/badge/PHP-DC322F?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/docs.php)
 [![Bash](https://img.shields.io/badge/-Bash-DC322F?style=for-the-badge&logo=gnu-bash&logoColor=FFFFFF)](https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html)
-[![Java](https://img.shields.io/badge/-Java-DC322F?style=for-the-badge&logo=oracle&logoColor=FFFFFF)](https://docs.oracle.com/en/java/)
+[![JS](https://img.shields.io/badge/-JavaScript-DC322F?style=for-the-badge&logo=javascript&logoColor=FFFFFF)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ## Feel Free to Check Out
 [![Medium.com](https://img.shields.io/badge/-Medium-DC322F?style=for-the-badge&logo=Medium)](https://medium.com/@nomardt)
 [![HackTheBox.com](https://img.shields.io/badge/-HTB-DC322F?style=for-the-badge&logo=HackTheBox)](https://app.hackthebox.com/users/1363617)
 [![CTFtime.org](https://img.shields.io/badge/-CTFtime.org-DC322F?style=for-the-badge)](https://ctftime.org/user/149327)
-
-## Contact Now
-[![Telegram](https://img.shields.io/badge/-Telegram-DC322F?style=for-the-badge&logo=Telegram)](https://t.me/nomardt)
-[![Email](https://img.shields.io/badge/-Email-DC322F?style=for-the-badge&logo=Thunderbird)](mailto:nomardt@aol.com)
-
-<!--
-**nomardt/nomardt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
