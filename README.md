@@ -2,7 +2,7 @@
 
 ### 
 
-## 🚀 My Fav Tech
+## 🚀 Fav Tech
 
 ###
 
@@ -28,7 +28,7 @@
 </div>
 
 ###
-## 📫 How to Reach Me</h3>
+## 📫 Contact Now</h3>
 
 ###
 
@@ -46,7 +46,7 @@
 
 ###
 
-## ⭐ GitHub Stats</h3>
+## ⭐ Some Stats</h3>
 
 ###
 
