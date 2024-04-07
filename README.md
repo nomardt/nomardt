@@ -28,7 +28,7 @@
 </div>
 
 ###
-## 📫 Contact Now</h3>
+## 📫 Contact</h3>
 
 ###
 
@@ -46,7 +46,7 @@
 
 ###
 
-## ⭐ Some Stats</h3>
+## ⭐ Stats</h3>
 
 ###
 
