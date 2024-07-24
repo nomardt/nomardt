@@ -7,7 +7,7 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/cyb3rzest/Burp-Suite-Pro/Blck/burp_suite.ico" height="40" alt="Burp Suite logo"  />
+  <img src="https://camo.githubusercontent.com/9c50f89fd16e93f841c58d79cbfbc572dfad37c7440a4acd4a73c065611e1ab3/68747470733a2f2f706f7274737769676765722e6e65742f636f6e74656e742f696d616765732f7376672f69636f6e732f70726f66657373696f6e616c2e737667" height="40" alt="Burp Suite logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
   <img width="12" />
